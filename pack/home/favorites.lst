@@ -1,0 +1,6 @@
+$(SciteDefaultHome)\tools\CodePage.lua
+$(SciteDefaultHome)\tools\HTML_toolbar.lua
+$(SciteDefaultHome)\tools\InsertSpecialChar.lua
+$(SciteDefaultHome)\api\SciTELua.api
+$(SciteDefaultHome)\tools\SideBar.lua
+C:\Users\User\Documents\test.lua

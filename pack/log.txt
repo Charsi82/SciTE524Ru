@@ -1,0 +1,16 @@
+gui inited
+on_destroy
+destroy extra_window
+~PanelWindow
+~TEventWindow
+~PanelWindow
+~TEventWindow
+~TWin
+~TWin
+~TWin
+destroy extra_window_splitter
+~TEventWindow
+~TWin
+~TWin
+~TWin
+~TWin
